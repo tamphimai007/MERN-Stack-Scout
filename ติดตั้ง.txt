@@ -1,0 +1,14 @@
+/* Server */
+>npm init -y
+>npm install express body-parser mongoose cors morgan bcryptjs express-jwt jsonwebtoken nodemon dotenv
+>npm start
+
+/* Client */
+>npx create-react-app client
+>npm install axios antd bootstrap react-router-dom redux react-redux redux-devtools-extension moment react-moment
+
+
+
+
+
+
